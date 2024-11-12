@@ -1,4 +1,4 @@
-# fungsi mencari nilai maximal dan  minimal
+# fungsi mencari nilai maximal
 def max (angka1, angka2, angka3) :
     if ((angka1 > angka2) and (angka1 > angka3)) :
         return angka1
